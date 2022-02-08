@@ -63,18 +63,18 @@ The User interface of the Line Intensity Profile widget as follows:
 
 ![widget.PNG](Extension%20for%203D%20Slicer%20to%20Analyze%20Line%20Intensity/widget.png)
 
-1. **Reload and Test**
+3. **Reload and Test**
     
     Click **“Reload and Test”** button in the widget to load and test the functionality of line intensity profile. Here, the functionality is correct, if two samples volumes are loaded and a ruler is placed on a given predefined position. The outcome should be as given below:
     
     ![reload_and_test.png](Extension%20for%203D%20Slicer%20to%20Analyze%20Line%20Intensity/reload_and_test.png)
     
-2. **Select the correct volume nodes and then the ruler can be selected from the toolbar**
+4. **Select the correct volume nodes and then the ruler can be selected from the toolbar**
     
     
     ![ruler.png](Extension%20for%203D%20Slicer%20to%20Analyze%20Line%20Intensity/ruler.png)
     
-3. **Acquire Line Intensity Profiles**
+5. **Acquire Line Intensity Profiles**
     
     Place the ruler on any one of the loaded image and draw a line across the Region of Interest as shown before to acquire Line Intensity Profiles.  (Example given below)
     
