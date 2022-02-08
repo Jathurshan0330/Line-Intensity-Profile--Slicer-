@@ -4,7 +4,8 @@
 
 This repository consists of Line intensity profile extension build for slicer software as a requirement to fulfill Medical Image Processing module (University of Moratuwa).  The line intensity profile provides the plot of intensity levels of pixels in the drawn line, which can be used to compare anatomical structures and noise levels of multiple images. The following slicer extension is capable of plotting line intensity profiles of a drawn line in 2 given 3D images and visualize the results. 
 
-![                                                    A sample of the Line Intensity Profile extension in 3D Slicer](Extension%20for%203D%20Slicer%20to%20Analyze%20Line%20Intensity%20%2013598b3b9e634d1b96c360439c029be1/trailer_image.png)
+
+![                                                    A sample of the Line Intensity Profile extension in 3D Slicer](Extension%20for%203D%20Slicer%20to%20Analyze%20Line%20Intensity/trailer_image.png)
 
                                                     A sample of the Line Intensity Profile extension in 3D Slicer
 
