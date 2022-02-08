@@ -61,7 +61,7 @@ Line intensity profiles of two 3D MRI Brain images was plotted in axial, sagitta
 
 The User interface of the Line Intensity Profile widget as follows:
 
-![widget.PNG](Extension%20for%203D%20Slicer%20to%20Analyze%20Line%20Intensity/widget.png)
+    ![widget.PNG](Extension%20for%203D%20Slicer%20to%20Analyze%20Line%20Intensity/widget.png)
 
 3. **Reload and Test**
     
