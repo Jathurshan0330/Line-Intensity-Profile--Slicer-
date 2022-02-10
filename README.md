@@ -38,7 +38,7 @@ Line intensity profiles of two 3D MRI Brain images was plotted in axial, sagitta
 2. Install `DeveloperToolsForExtensions' from extension manager.
 3. Restart 3D Slicer.
 4. Open the Developer tools for extensions.
-   Modules → Developer tools → Developer tools for extension
+   (Modules → Developer tools → Developer tools for extension)
 5. Load the LineIntensityProfile.py using Load Module.
 6. Open Line Intensity Profile.
 
