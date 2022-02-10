@@ -33,6 +33,15 @@ Line intensity profiles of two 3D MRI Brain images was plotted in axial, sagitta
     
     3D Slicer is a free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research. Slicer is created for the purpose of subject specific image analysis and visualization. The software can be downloaded from [slicer.org](https://www.slicer.org/). 
     
+## Installation
+1. Download and extract the files from this repository.
+2. Install `DeveloperToolsForExtensions' from extension manager.
+3. Restart 3D Slicer.
+4. Open the Developer tools for extensions.
+   Modules → Developer tools → Developer tools for extension
+5. Load the LineIntensityProfile.py using Load Module.
+6. Open Line Intensity Profile.
+
 
 ## Instructions
 
